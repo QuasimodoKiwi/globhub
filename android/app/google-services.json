@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893043772937",
+    "project_id": "globhub-9bdcd",
+    "storage_bucket": "globhub-9bdcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893043772937:android:4bf9a8cc51a3323f1032d8",
+        "android_client_info": {
+          "package_name": "com.example.boss_level_challenge_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbOwh98q3fScCQ7kl2gFxWPCfeDIRm5ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
