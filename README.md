@@ -1,6 +1,6 @@
-# boss_level_challenge_5
+# GlobHub
 
-A new Flutter project.
+To launch, run the "launcher.dart" file. From there, you will have access to the application so long as the server on firebase is running. From there, you can sign up a user, login as a user, send text messages, and edit your profile through the navigation buttons for each respective page.
 
 ## Getting Started
 
